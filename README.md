@@ -7,3 +7,9 @@ Java Programming Skill
 
 
 AZURE_REQUEST_RESPONSE_TIMEOUT=120000;GRADLE_BUILD_PROFILE=local;AZURE_REQUEST_CONNECT_TIMEOUT=60000
+
+
+-Dspring.profiles.active=local
+
+com.luxoft.hephaestus.HephaestusApplication
+C:\HephaestusProject\hephaestus
